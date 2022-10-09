@@ -1,0 +1,62 @@
+C:\Users\DELL\Desktop\.net practical\MarketLateFeeCalculator\bin\Debug\Sonu_LateFeeCalulator.exe.config
+C:\Users\DELL\Desktop\.net practical\MarketLateFeeCalculator\bin\Debug\Sonu_LateFeeCalulator.exe
+C:\Users\DELL\Desktop\.net practical\MarketLateFeeCalculator\bin\Debug\Sonu_LateFeeCalulator.pdb
+C:\Users\DELL\Desktop\.net practical\MarketLateFeeCalculator\obj\Debug\Sonu_lateFeeCalculate.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\.net practical\MarketLateFeeCalculator\obj\Debug\Sonu_lateFeeCalculate.csproj.SuggestedBindingRedirects.cache
+C:\Users\DELL\Desktop\.net practical\MarketLateFeeCalculator\obj\Debug\MarketLateFeeCalculator.frmLibrarys.resources
+C:\Users\DELL\Desktop\.net practical\MarketLateFeeCalculator\obj\Debug\MarketLateFeeCalculator.frmmain.resources
+C:\Users\DELL\Desktop\.net practical\MarketLateFeeCalculator\obj\Debug\MarketLateFeeCalculator.Frmnew.resources
+C:\Users\DELL\Desktop\.net practical\MarketLateFeeCalculator\obj\Debug\MarketLateFeeCalculator.frmSystems.resources
+C:\Users\DELL\Desktop\.net practical\MarketLateFeeCalculator\obj\Debug\Sonu_LateFeeCalulator.Properties.Resources.resources
+C:\Users\DELL\Desktop\.net practical\MarketLateFeeCalculator\obj\Debug\Sonu_lateFeeCalculate.csproj.GenerateResource.cache
+C:\Users\DELL\Desktop\.net practical\MarketLateFeeCalculator\obj\Debug\Sonu_lateFeeCalculate.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\.net practical\MarketLateFeeCalculator\obj\Debug\Sonu_LateFeeCalulator.exe
+C:\Users\DELL\Desktop\.net practical\MarketLateFeeCalculator\obj\Debug\Sonu_LateFeeCalulator.pdb
+C:\Users\Naveen Reddy\Downloads\MarketLateFeeCalculator\bin\Debug\Sonu_LateFeeCalulator.exe.config
+C:\Users\Naveen Reddy\Downloads\MarketLateFeeCalculator\bin\Debug\Sonu_LateFeeCalulator.exe
+C:\Users\Naveen Reddy\Downloads\MarketLateFeeCalculator\bin\Debug\Sonu_LateFeeCalulator.pdb
+C:\Users\Naveen Reddy\Downloads\MarketLateFeeCalculator\obj\Debug\Sonu_lateFeeCalculate.csproj.AssemblyReference.cache
+C:\Users\Naveen Reddy\Downloads\MarketLateFeeCalculator\obj\Debug\Sonu_lateFeeCalculate.csproj.SuggestedBindingRedirects.cache
+C:\Users\Naveen Reddy\Downloads\MarketLateFeeCalculator\obj\Debug\MarketLateFeeCalculator.frmLibrarys.resources
+C:\Users\Naveen Reddy\Downloads\MarketLateFeeCalculator\obj\Debug\MarketLateFeeCalculator.frmmain.resources
+C:\Users\Naveen Reddy\Downloads\MarketLateFeeCalculator\obj\Debug\MarketLateFeeCalculator.Frmnew.resources
+C:\Users\Naveen Reddy\Downloads\MarketLateFeeCalculator\obj\Debug\MarketLateFeeCalculator.frmSystems.resources
+C:\Users\Naveen Reddy\Downloads\MarketLateFeeCalculator\obj\Debug\Sonu_LateFeeCalulator.Properties.Resources.resources
+C:\Users\Naveen Reddy\Downloads\MarketLateFeeCalculator\obj\Debug\Sonu_lateFeeCalculate.csproj.GenerateResource.cache
+C:\Users\Naveen Reddy\Downloads\MarketLateFeeCalculator\obj\Debug\Sonu_lateFeeCalculate.csproj.CoreCompileInputs.cache
+C:\Users\Naveen Reddy\Downloads\MarketLateFeeCalculator\obj\Debug\Sonu_LateFeeCalulator.exe
+C:\Users\Naveen Reddy\Downloads\MarketLateFeeCalculator\obj\Debug\Sonu_LateFeeCalulator.pdb
+C:\Users\DELL\Desktop\.NET\MarketLateFeeCalculator_3\MarketLateFeeCalculator_3\bin\Debug\Sonu_LateFeeCalulator.exe.config
+C:\Users\DELL\Desktop\.NET\MarketLateFeeCalculator_3\MarketLateFeeCalculator_3\bin\Debug\Sonu_LateFeeCalulator.exe
+C:\Users\DELL\Desktop\.NET\MarketLateFeeCalculator_3\MarketLateFeeCalculator_3\bin\Debug\Sonu_LateFeeCalulator.pdb
+C:\Users\DELL\Desktop\.NET\MarketLateFeeCalculator_3\MarketLateFeeCalculator_3\obj\Debug\Sonu_lateFeeCalculate.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\.NET\MarketLateFeeCalculator_3\MarketLateFeeCalculator_3\obj\Debug\Sonu_lateFeeCalculate.csproj.SuggestedBindingRedirects.cache
+C:\Users\DELL\Desktop\.NET\MarketLateFeeCalculator_3\MarketLateFeeCalculator_3\obj\Debug\Sonu_LateFeeCalulator.frmLateGames.resources
+C:\Users\DELL\Desktop\.NET\MarketLateFeeCalculator_3\MarketLateFeeCalculator_3\obj\Debug\MarketLateFeeCalculator.frmLibrarys.resources
+C:\Users\DELL\Desktop\.NET\MarketLateFeeCalculator_3\MarketLateFeeCalculator_3\obj\Debug\MarketLateFeeCalculator.frmmain.resources
+C:\Users\DELL\Desktop\.NET\MarketLateFeeCalculator_3\MarketLateFeeCalculator_3\obj\Debug\MarketLateFeeCalculator.Frmnew.resources
+C:\Users\DELL\Desktop\.NET\MarketLateFeeCalculator_3\MarketLateFeeCalculator_3\obj\Debug\MarketLateFeeCalculator.frmSystems.resources
+C:\Users\DELL\Desktop\.NET\MarketLateFeeCalculator_3\MarketLateFeeCalculator_3\obj\Debug\Sonu_LateFeeCalulator.Properties.Resources.resources
+C:\Users\DELL\Desktop\.NET\MarketLateFeeCalculator_3\MarketLateFeeCalculator_3\obj\Debug\Sonu_lateFeeCalculate.csproj.GenerateResource.cache
+C:\Users\DELL\Desktop\.NET\MarketLateFeeCalculator_3\MarketLateFeeCalculator_3\obj\Debug\Sonu_lateFeeCalculate.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\.NET\MarketLateFeeCalculator_3\MarketLateFeeCalculator_3\obj\Debug\Sonu_LateFeeCalulator.exe
+C:\Users\DELL\Desktop\.NET\MarketLateFeeCalculator_3\MarketLateFeeCalculator_3\obj\Debug\Sonu_LateFeeCalulator.pdb
+C:\Users\DELL\Desktop\.NET\MarketLateFeeCalculator_3\MarketLateFeeCalculator_3\obj\Debug\Sonu_LateFeeCalulator.frmNewGame.resources
+C:\Users\DELL\Desktop\.NET\MarketLateFeeCalculator_3\MarketLateFeeCalculator_3\obj\Debug\Sonu_LateFeeCalulator.frmRentalMaintenance.resources
+C:\Users\DELL\Desktop\.NET\MarketLateFeeCalculator_3\MarketLateFeeCalculator_5\MarketLateFeeCalculator_3\bin\Debug\Sonu_LateFeeCalulator.exe.config
+C:\Users\DELL\Desktop\.NET\MarketLateFeeCalculator_3\MarketLateFeeCalculator_5\MarketLateFeeCalculator_3\bin\Debug\Sonu_LateFeeCalulator.exe
+C:\Users\DELL\Desktop\.NET\MarketLateFeeCalculator_3\MarketLateFeeCalculator_5\MarketLateFeeCalculator_3\bin\Debug\Sonu_LateFeeCalulator.pdb
+C:\Users\DELL\Desktop\.NET\MarketLateFeeCalculator_3\MarketLateFeeCalculator_5\MarketLateFeeCalculator_3\obj\Debug\Sonu_lateFeeCalculate.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\.NET\MarketLateFeeCalculator_3\MarketLateFeeCalculator_5\MarketLateFeeCalculator_3\obj\Debug\Sonu_lateFeeCalculate.csproj.SuggestedBindingRedirects.cache
+C:\Users\DELL\Desktop\.NET\MarketLateFeeCalculator_3\MarketLateFeeCalculator_5\MarketLateFeeCalculator_3\obj\Debug\Sonu_LateFeeCalulator.frmLateGames.resources
+C:\Users\DELL\Desktop\.NET\MarketLateFeeCalculator_3\MarketLateFeeCalculator_5\MarketLateFeeCalculator_3\obj\Debug\MarketLateFeeCalculator.frmLibrarys.resources
+C:\Users\DELL\Desktop\.NET\MarketLateFeeCalculator_3\MarketLateFeeCalculator_5\MarketLateFeeCalculator_3\obj\Debug\MarketLateFeeCalculator.frmmain.resources
+C:\Users\DELL\Desktop\.NET\MarketLateFeeCalculator_3\MarketLateFeeCalculator_5\MarketLateFeeCalculator_3\obj\Debug\MarketLateFeeCalculator.Frmnew.resources
+C:\Users\DELL\Desktop\.NET\MarketLateFeeCalculator_3\MarketLateFeeCalculator_5\MarketLateFeeCalculator_3\obj\Debug\Sonu_LateFeeCalulator.frmNewGame.resources
+C:\Users\DELL\Desktop\.NET\MarketLateFeeCalculator_3\MarketLateFeeCalculator_5\MarketLateFeeCalculator_3\obj\Debug\Sonu_LateFeeCalulator.frmRentalMaintenance.resources
+C:\Users\DELL\Desktop\.NET\MarketLateFeeCalculator_3\MarketLateFeeCalculator_5\MarketLateFeeCalculator_3\obj\Debug\MarketLateFeeCalculator.frmSystems.resources
+C:\Users\DELL\Desktop\.NET\MarketLateFeeCalculator_3\MarketLateFeeCalculator_5\MarketLateFeeCalculator_3\obj\Debug\Sonu_LateFeeCalulator.Properties.Resources.resources
+C:\Users\DELL\Desktop\.NET\MarketLateFeeCalculator_3\MarketLateFeeCalculator_5\MarketLateFeeCalculator_3\obj\Debug\Sonu_lateFeeCalculate.csproj.GenerateResource.cache
+C:\Users\DELL\Desktop\.NET\MarketLateFeeCalculator_3\MarketLateFeeCalculator_5\MarketLateFeeCalculator_3\obj\Debug\Sonu_lateFeeCalculate.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\.NET\MarketLateFeeCalculator_3\MarketLateFeeCalculator_5\MarketLateFeeCalculator_3\obj\Debug\Sonu_LateFeeCalulator.exe
+C:\Users\DELL\Desktop\.NET\MarketLateFeeCalculator_3\MarketLateFeeCalculator_5\MarketLateFeeCalculator_3\obj\Debug\Sonu_LateFeeCalulator.pdb

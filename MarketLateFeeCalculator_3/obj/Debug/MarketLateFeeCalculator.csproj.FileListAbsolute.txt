@@ -1,0 +1,14 @@
+C:\Users\DELL\Desktop\.net practical\MarketLateFeeCalculator\bin\Debug\MarketLateFeeCalculator.exe.config
+C:\Users\DELL\Desktop\.net practical\MarketLateFeeCalculator\bin\Debug\MarketLateFeeCalculator.exe
+C:\Users\DELL\Desktop\.net practical\MarketLateFeeCalculator\bin\Debug\MarketLateFeeCalculator.pdb
+C:\Users\DELL\Desktop\.net practical\MarketLateFeeCalculator\obj\Debug\MarketLateFeeCalculator.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\.net practical\MarketLateFeeCalculator\obj\Debug\MarketLateFeeCalculator.csproj.SuggestedBindingRedirects.cache
+C:\Users\DELL\Desktop\.net practical\MarketLateFeeCalculator\obj\Debug\MarketLateFeeCalculator.frmmain.resources
+C:\Users\DELL\Desktop\.net practical\MarketLateFeeCalculator\obj\Debug\MarketLateFeeCalculator.Frmnew.resources
+C:\Users\DELL\Desktop\.net practical\MarketLateFeeCalculator\obj\Debug\MarketLateFeeCalculator.Properties.Resources.resources
+C:\Users\DELL\Desktop\.net practical\MarketLateFeeCalculator\obj\Debug\MarketLateFeeCalculator.csproj.GenerateResource.cache
+C:\Users\DELL\Desktop\.net practical\MarketLateFeeCalculator\obj\Debug\MarketLateFeeCalculator.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\.net practical\MarketLateFeeCalculator\obj\Debug\MarketLateFeeCalculator.exe
+C:\Users\DELL\Desktop\.net practical\MarketLateFeeCalculator\obj\Debug\MarketLateFeeCalculator.pdb
+C:\Users\DELL\Desktop\.net practical\MarketLateFeeCalculator\obj\Debug\MarketLateFeeCalculator.frmLibrarys.resources
+C:\Users\DELL\Desktop\.net practical\MarketLateFeeCalculator\obj\Debug\MarketLateFeeCalculator.frmSystems.resources
